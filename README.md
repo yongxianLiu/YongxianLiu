@@ -6,7 +6,7 @@
 - National University of Defense Technology (NUDT)
 
 🔭 **I focus on**: 
-- Infrared Small Target Detection
+- Infrared Small Target Detection and Tracking
 
 
 📫 **How to reach me**:
